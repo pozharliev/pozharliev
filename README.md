@@ -1,5 +1,6 @@
 ![SasukeGif](images/gif.gif)
 
+Hacked
 
 <p align="center">
     <a href="https://nvskx.dev" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-nvskx.dev-000000?style=for-the-badge&logo=Plex&logoColor=white"></a>
