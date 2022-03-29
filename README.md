@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5">
     <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3">
     <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql">
-    <img src="https://img.shields.io/badge/-Powershell-000000?style=for-the-badge&logo=powershell">
 </p>
 
 <p align="center">
@@ -33,20 +32,4 @@
     <img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite">
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker">
-    <img src="https://img.shields.io/badge/azure-000000?style=for-the-badge&logo=azure-devops">
-    <img src="https://img.shields.io/badge/github actions-000000?style=for-the-badge&logo=githubactions">
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm">
-    <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint">
-    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel">
-    <img src="https://img.shields.io/badge/Dropbox-000000?style=for-the-badge&logo=Dropbox">
-</p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git">
-    <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman">
-    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows">
-    <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu">
-    <img src="https://img.shields.io/badge/Google%20Chrome-000000?style=for-the-badge&logo=GoogleChrome">
-</p>
