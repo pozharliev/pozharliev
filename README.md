@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://nvskx.dev" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-nvskx.dev-000000?style=for-the-badge&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/ABPozharliev19" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ABPozharliev19-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/atanas-pozharliev-6012b0218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/atanas-pozharliev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
