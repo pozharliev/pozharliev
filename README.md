@@ -1,31 +1,47 @@
-![SasukeGif](images/gif.gif)
+# Hello there 👋
+## Who am I
 
-<p align="center">
-    <a href="https://nvskx.dev" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-nvskx.dev-000000?style=for-the-badge&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/ABPozharliev19" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ABPozharliev19-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/atanas-pozharliev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-</p>
+- Yo! My name is __Atanas Pozharliev__ (or for shorter - __Nasko__)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5">
-    <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3">
-    <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql">
-</p>
+- Huge fan of the __Python Ecosystem__
 
-<p align="center">
-    <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux">
-    <img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django">
-    <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js">
-</p>
+- Currently working as a __Full Stack Developer__ @ MoxyLabs, Burgas
 
-<p align="center">
-    <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-000000?style=for-the-badge&logo=microsoft%20sql%20server">
-    <img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite">
-</p>
+- Pursuing a __High School Degree__  in Computer Science @ VSCPI Burgas
 
+## How to reach me
 
+- __Email__ - atanas.pozharliev@gmail.com
+- __LinkedIn__ - https://www.linkedin.com/in/atanas-pozharliev/
+
+## Currently interested in
+- Data Engineering - Airflow, Databricks, Spark
+- Web Scraping
+- Strapi 
+- Next.js Ecosystem
+
+## Languages & Tools
+### Actively using
+
+- Python 
+   - Django, FastAPI
+   - Scrapy
+   - Django ORM, SQLAlchemy
+- Typescript
+   - React.js, Redux
+   - Next.js 
+   - Node.js & Express.js
+   - TypeORM, Prisma
+- PHP 
+   - Laravel, Lumen
+   - Wordpress & WooCommerce
+- Data & Related
+   - PostgreSQL, MySQL, SQL Server
+   - Elasticsearch
+- Docker
+- Linux
+
+### Sometimes using
+- C++
+- C#
+- Azure
