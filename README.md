@@ -3,6 +3,8 @@
 
 - Yo! My name is __Atanas Pozharliev__ (or for shorter - __Nasko__)
 
+- Mostly doing __Web Development__ and __Web Scraping__
+
 - Huge fan of the __Python Ecosystem__
 
 - Currently working as a __Full Stack Developer__ @ MoxyLabs, Burgas
