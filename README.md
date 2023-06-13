@@ -7,7 +7,7 @@
 
 - Huge fan of the __Python Ecosystem__
 
-- Currently working as a __Full Stack Developer__ @ MoxyLabs, Burgas
+- Currently working as a __Full Stack Developer__ @ Strypes
 
 - Pursuing a __High School Degree__  in Computer Science @ VSCPI Burgas
 
