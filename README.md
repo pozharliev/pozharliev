@@ -34,9 +34,6 @@
    - Next.js 
    - Node.js & Express.js
    - TypeORM, Prisma
-- PHP 
-   - Laravel, Lumen
-   - Wordpress & WooCommerce
 - Data & Related
    - PostgreSQL, MySQL, SQL Server
    - Elasticsearch
@@ -44,6 +41,9 @@
 - Linux
 
 ### Sometimes using
+- PHP 
+   - Laravel, Lumen
+   - Wordpress & WooCommerce
 - C++
 - C#
 - Azure
