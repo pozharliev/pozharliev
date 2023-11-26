@@ -5,8 +5,6 @@
 
 - Mostly doing __Web Development__ and __Web Scraping__
 
-- Huge fan of the __Python Ecosystem__
-
 - Currently working as a __Full Stack Developer__ @ Strypes
 
 - Pursuing a __High School Degree__  in Computer Science @ VSCPI Burgas
@@ -17,10 +15,7 @@
 - __LinkedIn__ - https://www.linkedin.com/in/atanas-pozharliev/
 
 ## Currently interested in
-- Data Engineering - Airflow, Databricks, Spark
-- Web Scraping
-- Strapi 
-- Next.js Ecosystem
+- PayloadCMS
 
 ## Languages & Tools
 ### Actively using
@@ -33,9 +28,10 @@
    - React.js, Redux
    - Next.js 
    - Node.js & Express.js
+   - PayloadCMS
    - TypeORM, Prisma
 - Data & Related
-   - PostgreSQL, MySQL, SQL Server
+   - PostgreSQL
    - Elasticsearch
 - Docker
 - Linux
