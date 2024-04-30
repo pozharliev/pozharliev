@@ -7,8 +7,6 @@
 
 - Currently working as a __Full Stack Developer__ @ Strypes
 
-- Pursuing a __High School Degree__  in Computer Science @ VSCPI Burgas
-
 ## How to reach me
 
 - __Email__ - atanas.pozharliev@gmail.com
