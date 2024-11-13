@@ -3,7 +3,7 @@
 
 - Yo! My name is __Atanas Pozharliev__ (or for shorter - __Nasko__)
 
-- Currently working as a __Full Stack Software Engineer__ @ Strypes
+- Currently working as a __Backend Software Engineer__ @ EDITED
 
 ## How to reach me
 
