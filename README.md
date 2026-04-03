@@ -3,7 +3,7 @@
 
 - Yo! My name is __Atanas Pozharliev__ (or for shorter - __Nasko__)
 
-- Currently working as a __Backend Software Engineer__ @ EDITED
+- Currently working as a __Backend Software Engineer__ @ Trading 212
 
 ## How to reach me
 
